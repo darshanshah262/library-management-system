@@ -169,6 +169,7 @@ class Register:
                 return
 
 #=====================================all images======================================
+        #add image path instead of the path i have used
         self.bg_icon=ImageTk.PhotoImage(file="C:/Users/Darshan/OneDrive/Desktop/login/login1.jpg")
         self.user_icon=ImageTk.PhotoImage(file="C:/Users/Darshan/OneDrive/Desktop/lib1.jpg")
         self.username_icon=ImageTk.PhotoImage(file="C:/Users/Darshan/OneDrive/Desktop/login/username_icon.jpg")
